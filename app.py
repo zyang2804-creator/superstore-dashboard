@@ -10,7 +10,7 @@ import streamlit as st
 plt.style.use("seaborn-v0_8")
 
 # ---------------------------------------------------------------------------
-TEAM_NAME = "teamfin"            # <- your team name goes here
+TEAM_NAME = "Zonghao Yang"      # <- your name goes here (it shows in the dashboard title)
 APP_TITLE = "Margin Watch"
 MARKET = "US"                    # the director owns the US market only
 DATA_PERIOD = "Data: Jan 2011 - Dec 2014 (Global Superstore sample, Kaggle snapshot)"

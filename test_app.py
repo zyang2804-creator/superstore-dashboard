@@ -9,7 +9,7 @@ Uses Streamlit's own AppTest, so the app is actually executed — no screenshots
 from streamlit.testing.v1 import AppTest
 
 APP = "app.py"
-TEAM_NAME = "teamfin"   # if you change TEAM_NAME in app.py, change it here too
+TEAM_NAME = "Zonghao Yang"   # keep this in sync with app.py
 
 
 def run(region=None):

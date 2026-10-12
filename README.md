@@ -1,6 +1,6 @@
 # Margin Watch — a Streamlit dashboard for a regional sales director
 
-**BANA409 — Data App in-class group exercise. Team: `teamfin`.**
+**BANA409 — Data App in-class group exercise. Built by Zonghao Yang.**
 
 This is the written answer to Steps 1–4 of the exercise. The app itself is `app.py`
 (`uv run streamlit run app.py`); the analysis behind the numbers is `eda.ipynb`; the data file is built
